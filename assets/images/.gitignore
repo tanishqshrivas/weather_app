@@ -1,0 +1,15 @@
+# Flutter/Dart stuff
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.env
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Other
+flutter_*.png
+*.log
+android/local.properties
