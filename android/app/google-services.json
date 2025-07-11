@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287437154173",
+    "project_id": "weather-42303",
+    "storage_bucket": "weather-42303.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287437154173:android:2faddfbb2209aa6dfc4e14",
+        "android_client_info": {
+          "package_name": "com.tanishq.weather_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB1XbSu9CBWMDynupD6TcroI9ZDmU-pFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
