@@ -51,6 +51,7 @@ dependencies:
   firebase_auth: ^5.6.2
   fluttertoast: ^8.2.12
   google_sign_in: ^6.1.6
+  intl: ^0.18.0
 
 dev_dependencies:
   flutter_test:
@@ -75,6 +76,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/
+    - assets/images/house.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
