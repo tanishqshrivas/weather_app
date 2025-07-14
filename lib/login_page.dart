@@ -87,15 +87,12 @@ class _LoginPageState extends State<LoginPage> {
     return Scaffold(
       body: Container(
         decoration: BoxDecoration(
-          gradient: LinearGradient(
-            begin: Alignment.topCenter,
-            end: Alignment.bottomCenter,
-            colors: [
-              Colors.blueAccent,
-              Colors.lightBlueAccent,
-            ],
+          image: DecorationImage(
+            image: AssetImage('assets/images/background.jpg'),
+            fit: BoxFit.cover,
           ),
         ),
+
         child: SafeArea(
           child: Padding(
             padding: const EdgeInsets.all(20.0),
@@ -130,7 +127,7 @@ class _LoginPageState extends State<LoginPage> {
 
                 // Welcome text
                 Text(
-                  'Welcome to Weather App',
+                  'Welcome to Aurora',
                   style: TextStyle(
                     fontSize: 28,
                     fontWeight: FontWeight.bold,

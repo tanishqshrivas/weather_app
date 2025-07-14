@@ -59,7 +59,6 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
         );
       }
     });
-
   }
 
   @override
@@ -71,16 +70,12 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.blueAccent,
       body: Container(
         decoration: BoxDecoration(
-          gradient: LinearGradient(
-            begin: Alignment.topCenter,
-            end: Alignment.bottomCenter,
-            colors: [
-              Colors.blueAccent,
-              Colors.lightBlueAccent,
-            ],
+          image: DecorationImage(
+            image: AssetImage('assets/images/background.jpg'),
+            // ✅ Use your background
+            fit: BoxFit.cover,
           ),
         ),
         child: Center(
@@ -94,8 +89,7 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      // Weather App Icon
-                      // Weather App Icon
+                      // App Icon
                       Container(
                         width: 120,
                         height: 120,
@@ -120,10 +114,8 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
                         ),
                       ),
                       SizedBox(height: 30),
-
-                      // App Name
                       Text(
-                        'Weather App',
+                        'Aurora',
                         style: TextStyle(
                           fontSize: 32,
                           fontWeight: FontWeight.bold,
@@ -140,7 +132,6 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
                         ),
                       ),
                       SizedBox(height: 50),
-                      // Loading indicator
                       CircularProgressIndicator(
                         valueColor: AlwaysStoppedAnimation<Color>(Colors.white),
                       ),
