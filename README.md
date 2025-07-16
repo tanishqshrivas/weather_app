@@ -41,7 +41,7 @@ Welcome to **Aurora**, a sleek and modern weather application that delivers real
 | OpenWeatherMap | Weather & AQI data source             |
 | FL Chart       | Graphs and visual data representation |
 | Lottie         | Engaging UI animations                |
-| GetX           | Navigation & reactive state handling  |
+| Provider       | Navigation & reactive state handling  |
 | SharedPrefs    | Store user preferences locally        |
 
 ---
