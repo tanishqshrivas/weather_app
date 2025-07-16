@@ -2,14 +2,13 @@
 
 > *Built with Flutter • Powered by Firebase • Designed for real-world forecasting.*
 
-Welcome to **Aurora**, a sleek and modern weather application that delivers real-time weather insights, stylish animations, and an intuitive user experience — fully developed and designed by **[Your Name]**, a dedicated Flutter and mobile app enthusiast.
+Welcome to **Aurora**, a sleek and modern weather application that delivers real-time weather insights, stylish animations, and an intuitive user experience — fully developed and designed by **Tanishq Shrivas**, a dedicated Flutter and mobile app enthusiast.
 
 ---
 
 ## 📲 Download the App
 
-[Download APK]  
-👉 *Coming Soon or Replace with your link*
+[⬇️ Download APK](https://drive.google.com/file/d/1m7j2Od8rT8NKGlnC8HxdrwqFECF1Y_zX/view?usp=sharing)
 
 ---
 
@@ -43,10 +42,11 @@ Welcome to **Aurora**, a sleek and modern weather application that delivers real
 
 ## 👨‍💻 About the Developer
 
-**[Your Name]**  
-📍 [Your Location] | 🎓 [Your Degree or University]  
-💼 Flutter Developer | 💡 UI/UX Lover | 🚀 Aspiring Tech Leader  
-📫 [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/) • [Portfolio/Website](https://yourwebsite.com)
+**Tanishq Shrivas**  
+📍 Bhopal, Madhya Pradesh | 🎓 CSE @ IIIT Bhopal  
+💼 Flutter Developer | 💡 UI/UX Enthusiast | 🚀 Aspiring Full-Stack Engineer  
+
+📫 [LinkedIn](https://www.linkedin.com/in/tanishq-shrivas-815927324/) • [GitHub](https://github.com/tanishqshrivas) • [LeetCode](https://leetcode.com/u/tanishq003/)
 
 ---
 
