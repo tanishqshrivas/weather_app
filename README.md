@@ -2,7 +2,7 @@
 
 > *Built with Flutter • Powered by Firebase • Designed for real-world forecasting.*
 
-Welcome to **Aurora**, a sleek and modern weather application that delivers real-time weather insights, stylish animations, and an intuitive user experience — fully developed and designed by **Tanishq Shrivas**, a dedicated Flutter and mobile app enthusiast.
+Welcome to Aurora — a clean, modern weather app that brings real-time forecasts to life with fluid design, smooth transitions, and a user-first experience. Built entirely with Flutter, Aurora combines performance with elegance to make checking the weather feel effortless and enjoyable.
 
 ---
 ## 📱 App Preview
