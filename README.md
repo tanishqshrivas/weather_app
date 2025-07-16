@@ -5,6 +5,12 @@
 Welcome to **Aurora**, a sleek and modern weather application that delivers real-time weather insights, stylish animations, and an intuitive user experience — fully developed and designed by **Tanishq Shrivas**, a dedicated Flutter and mobile app enthusiast.
 
 ---
+## 📱 App Preview
+
+<p align="center">
+  <img src="App_Preview.png" alt="Aurora App Screens Preview" width="100%" />
+</p>
+
 
 ## 📲 Download the App
 
